@@ -11502,10 +11502,7 @@
               "margin": ".5rem",
               "background": "@iconsBg",
               "color": "contrast(@iconsBg, darken(@iconsBg, 50%), #ffffff, 60%)",
-              "font-size": "~\"@{iconsSize}rem\"",
-              "border-radius": "100%",
-              "width": "60px",
-              "height": "60px"
+              "font-size": "~\"@{iconsSize}rem\""
             },
             "H1": {
               "color": "#f54e00"
@@ -11525,7 +11522,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
