@@ -42,13 +42,13 @@
     "versionPublish": "4.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "robotsSwitcher": "on",
-    "siteUrl": "https://jbrioolservice.nl/sitemap.xml",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/jbrioolservicerioolprobleemcamerainspectie-2019-1.png",
     "noImageResize": "true",
-    "cookiesAlert": "jb rioolservice gebruikt <a href='privacy-voorwaarden.html'>cookies beleidsmatig</a>.",
+    "cookiesAlert": "",
     "google-analytics": "",
     "sitemapSwitcher": "on",
     "siteFonts": [
@@ -103,9 +103,9 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i"
       }
     ],
-    "gdpr": "jb rioolservice handelt volgens de europese <a href='terms.html'>service</a> en <a href='policy.html'>privacy</a> voorwaarden.",
+    "gdpr": "",
     "сanonical-url": "",
-    "cleanCSS": true
+    "cleanCSS": false
   },
   "pages": {
     "social-media-beleid.html": {
